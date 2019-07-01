@@ -1,0 +1,64 @@
+body
+{
+background-color:blue;
+background-image: url("pics/pic3.jpeg");
+background-repeat: repeat-y;
+background-position: right center ;
+
+
+}
+img
+{
+
+border:3px solid red;
+border-radius:5px;
+margin:5px;
+}
+h1
+{
+color: white;
+text-align: center;
+font-size: 40px;
+padding: 10px 0;
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+h2
+{
+color: white;
+text-align: center;
+font-size: 30px;
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+p
+{
+
+margin-left:25%;
+margin-right:25%;
+
+text-align: center;
+color:white;
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+a
+{
+color: white;
+}
+a:link {
+    text-decoration: none;
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+a:visited {
+    text-decoration: underline;
+color: red;
+}
+
+a:hover {
+    text-decoration: underline;
+color: red;
+}
+
+a:active {
+    text-decoration: underline;
+
+}
